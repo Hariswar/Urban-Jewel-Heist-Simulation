@@ -1,2 +1,2 @@
 # Urban-Jewel-Heist-Simulation
-Developed a complex, multi-class simulation in C++ where robbers, police, and scattered jewels interact within a 2D city grid
+Developed a complex, multi-class simulation in C++ where robbers, police, and scattered jewels interact within a 2D city grid. Implemented key OOP concepts such as operator overloading, static member variables, template classes, and random number generation. Robbers exhibit unique behaviors (ordinary vs. greedy), including randomized movement, loot collection, and special interactions with police. Simulation dynamically tracks jewel values, arrests, and game outcomes, with detailed console output after each turn.
